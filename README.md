@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello! I'm Ghani 👨‍💻
 
-<!--
-**Jauziyah/Jauziyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Web Developer**
 
-Here are some ideas to get you started:
+Currently keep improving on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Focus
+- **PHP & MySQL** - Building optimized backend logic and efficient databases
+- **Laravel & CodeIgniter** - Learning fundamental PHP frameworks
+- **Frontend Basics** - HTML, CSS, JavaScript and React
+
+## 📚 Learning Path
+- 🔄 Codeigniter
+- 🔄 Laravel
+
+## 💼 Projects
+Projects that i have been worked/working on
+- Astrakop
+- Personal Portofolio
+
+## 🤝 Let's Connect
+I'd love to connect with other developers and learn together!
+
+[LinkedIn](https://www.linkedin.com/in/meja-ghani/) | [Email](mailto:mejaghani@gmail.com)
